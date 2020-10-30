@@ -1,0 +1,15 @@
+﻿bodt{
+    font-family:IranNastaliq;
+}
+img#One{
+    width:758px;
+}
+h5#two:hover{
+   color:greenyellow;
+}
+@font-face {
+    font-family: "IranNastaliq";
+    src: url("/fonts/IranNastaliq.eot") format('eot');
+    src: url("/fonts/IranNastaliq.ttf") format('ttf');
+    src: url("/fonts//IranNastaliq.woff") format('woff');
+}
